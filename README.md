@@ -1,8 +1,8 @@
 # Ai Image Generator
 
-## AI Image generator helps you to generator any pictures.
+### AI Image generator helps you to generator any pictures.
 
-## Warning
+### Warning
 
 You need to get your own api key and replace it in script.js file on line 1 :
 
